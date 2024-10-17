@@ -1,7 +1,7 @@
 SubProceso opciones
-	Escribir ">>> MENÚ DE OPCIONES <<< "
+	Escribir ">>> MENÃš DE OPCIONES <<< "
 	
-	Escribir "1. Números del 1 al 10."
+	Escribir "1. NÃºmeros del 1 al 10."
 	Escribir "2. Tabla de multiplicar del 8."
 	Escribir "3. Primeras diez potencias de 2."
 	Escribir "4. Salir."
@@ -32,7 +32,7 @@ Algoritmo menuopciones
 	
 	Repetir
 		opciones
-		Escribir "Introduzca opción (1-4): "
+		Escribir "Introduzca opciÃ³n (1-4): "
 		Leer num
 		
 		Si num<=4 Y num>=1 Entonces
@@ -45,7 +45,7 @@ Algoritmo menuopciones
 					potencia
 			Fin Segun
 		SiNo
-			Escribir "Introduce un número entre 1 y 4"
+			Escribir "Introduce un nÃºmero entre 1 y 4"
 		Fin Si
 	Hasta Que num=4
 	
