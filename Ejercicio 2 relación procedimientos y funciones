@@ -1,4 +1,4 @@
-//Escribe una función que devuelva el resultado de un número elevado a un exponente dado
+//Escribe una funciÃ³n que devuelva el resultado de un nÃºmero elevado a un exponente dado
 
 
 Funcion resultado<- Elevado (n1,n2)
@@ -8,9 +8,9 @@ FinFuncion
 
 Algoritmo elevad 
 	
-	Escribir "Introduce el primer número: "
+	Escribir "Introduce el primer nÃºmero: "
 	Leer num1
-	Escribir "Introduce el segundo número: "
+	Escribir "Introduce el segundo nÃºmero: "
 	Leer num2
 	
 	exponente<- Elevado (num1,num2)
